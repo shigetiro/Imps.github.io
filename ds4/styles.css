@@ -10,7 +10,7 @@
     background-image: url("./assets/dpad.png") !important;
 }
 
-.ds4 .meta {
+.ds4 .meta.pressed {
     background-image: url("./assets/meta.png") !important;
 }
 
@@ -18,7 +18,7 @@
     background-image: url("./assets/sticks.png") !important;
 }
 
-.ds4 .touchpad {
+.ds4 .touchpad.pressed {
     background-image: url("./assets/touchpad.png") !important;
 }
 .ds4 .trigger {
