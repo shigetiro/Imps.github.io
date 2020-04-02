@@ -1,0 +1,30 @@
+.ds4.controller {
+    background-image: url("./assets/base.png") !important;
+}
+
+.ds4 .button {
+    background-image: url("./assets/face.png") !important;
+}
+
+.ds4 .face {
+    background-image: url("./assets/dpad.png") !important;
+}
+
+.ds4 .meta {
+    background-image: url("./assets/meta.png") !important;
+}
+
+.ds4 .stick {
+    background-image: url("./assets/sticks.png") !important;
+}
+
+.ds4 .touchpad {
+    background-image: url("./assets/touchpad.png") !important;
+}
+.ds4 .trigger {
+    background-image: url("./assets/triggers.png") !important;
+}
+
+.ds4.disconnected {
+    background: url("./assets/disconnected.png") !important;
+}
