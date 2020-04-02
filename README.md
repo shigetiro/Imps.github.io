@@ -15,9 +15,9 @@ The following controllers are ready to go, just click on which one you want:
     * Any other settings are your choice
 
 ## Bugs
-If you have found a bug and would like to report it, [create an issue](/issues).
+If you have found a bug and would like to report it, [create an issue](https://github.com/undertowesports/gamepad-viewer/issues).
 
-If you have found a bug and would like to fix it, [create a pull request](/pulls).
+If you have found a bug and would like to fix it, [create a pull request](https://github.com/undertowesports/gamepad-viewer/pulls).
 
 
 #### License: MIT
