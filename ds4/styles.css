@@ -2,6 +2,16 @@
     background-image: url("./assets/base.png") !important;
 }
 
+.ds4 .back,
+.ds4 .start {
+    background-image: none !important;
+}
+
+.ds4 .back.pressed,
+.ds4 .start.pressed {
+    background-image: url("./assets/start_pressed.png") !important;
+}
+
 .ds4 .button {
     background-image: url("./assets/face.png") !important;
 }
