@@ -6,12 +6,17 @@ This repository contains Undertow-themed [Gamepad Viewer](https://gamepadviewer.
 ### Prebuilts
 The following controllers are ready to go, just click on which one you want:
 * [DualShock 4](https://gamepadviewer.com/?p=1&s=5&editcss=https%3A%2F%2Fundertowesports.github.io%2Fgamepad-viewer%2Fds4%2Fstyles.css)
+* [Xbox One](https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2Fundertowesports.github.io%2Fgamepad-viewer%2Fxbox-one%2Fstyles.css)
 
 ### Advanced Setup
 * Open [Gamepad Viewer's Generator](https://gamepadviewer.com/#generate) in a new tab
-* For customizing the DualShock 4 skin, set the following:
+* To customize the DualShock 4 skin, set the following:
     * Skin: `PlayStation 4`
     * Edit CSS URL: `https://undertowesports.github.io/gamepad-viewer/ds4/styles.css`
+    * Any other settings are your choice
+* To customize the Xbox One Controller, set the following:
+    * Skin: `Xbox One`
+    * Edit CSS URL: `https://undertowesports.github.io/gamepad-viewer/xbox-one/styles.css`
     * Any other settings are your choice
 
 ## Bugs
