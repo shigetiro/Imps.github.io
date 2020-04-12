@@ -2,11 +2,12 @@
 This repository contains Undertow-themed [Gamepad Viewer](https://gamepadviewer.com/) skins.
 
 ## Using our Skins
+Remember to set the correct height and width in OBS so the controller is not cutoff.
 
 ### Prebuilts
 The following controllers are ready to go, just click on which one you want:
-* [DualShock 4](https://gamepadviewer.com/?p=1&s=5&editcss=https%3A%2F%2Fundertowesports.github.io%2Fgamepad-viewer%2Fds4%2Fstyles.css)
-* [Xbox One](https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2Fundertowesports.github.io%2Fgamepad-viewer%2Fxbox-one%2Fstyles.css)
+* [DualShock 4](https://gamepadviewer.com/?p=1&s=5&editcss=https%3A%2F%2Fundertowesports.github.io%2Fgamepad-viewer%2Fds4%2Fstyles.css) (`806x598`)
+* [Xbox One](https://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2Fundertowesports.github.io%2Fgamepad-viewer%2Fxbox-one%2Fstyles.css) (`750x630`)
 
 ### Advanced Setup
 * Open [Gamepad Viewer's Generator](https://gamepadviewer.com/#generate) in a new tab
